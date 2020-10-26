@@ -1,10 +1,10 @@
 {
   "name": "create-files-cli",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "description": "",
   "main": "lib/generate-file.js",
   "bin": {
-    "touchme": "bin/touchme.js"
+    "leesong": "bin/touchme.js"
   },
   "dependencies": {
     "commander": "^6.2.0",
